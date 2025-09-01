@@ -1,3 +1,4 @@
-name: WG-Easy Home Assistant Add-ons
-url: https://github.com/yourname/wgEasy-AddOn
-maintainer: yourname
+name: WG-Easy Home Assistant Add-on
+url: https://github.com/cgfm/WG-Easy-AddOn
+maintainer: "cgfm <o6arumdm@addy.io>"
+description: "Home Assistant addon for the Wireguard Server and UI WG-Easy"

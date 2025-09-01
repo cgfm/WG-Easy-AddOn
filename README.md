@@ -4,11 +4,13 @@
 ![Host Network](https://img.shields.io/badge/host%20network-true-ff69b4?style=for-the-badge)
 ![Supervisor](https://img.shields.io/badge/home%20assistant-add--on-41BDF5?style=for-the-badge)
 
-[![Open your Home Assistant and add this repository with a click](https://my.home-assistant.io/badges/supervisor_add_repository.svg)](https://my.home-assistant.io/redirect/supervisor_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2FYOUR_USER%2Fwg-easy-addon)
-
 # WG-Easy Add-on for Home Assistant
 
 WG-Easy is a simple, self-hosted WireGuard VPN manager with a web UI. This add-on packages WG-Easy to run on your Home Assistant host, with Ingress support for convenient sidebar access.
+
+## Quick Installation
+
+[![Open your Home Assistant instance and show the add add-on repository dialog with a specific repository URL pre-filled.](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/_change/?redirect=supervisor_add_addon_repository%2F%3Frepository_url%3Dhttps%253A%252F%252Fgithub.com%252Fcgfm%252FWG-Easy-AddOn)
 
 ## How To Use
 
